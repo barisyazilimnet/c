@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+
 main(){
 	int a[]={ 3, 8, 7, 2, 6}, i;
 	for(i=0; i<5; i++){
